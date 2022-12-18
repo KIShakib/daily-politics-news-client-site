@@ -1,0 +1,6 @@
+/* Loadin Spinner CSS Start */
+  .loader-spinner{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+  }
